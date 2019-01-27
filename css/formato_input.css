@@ -1,0 +1,19 @@
+input.formato {
+	width: auto;
+	background: #000\9;
+	box-shadow: 8px 8px 15px #999;
+	border-radius: 15px;
+	border-top-style: solid;
+	border-collapse: separate;
+	border-spacing: 25px;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: top;
+	border-spacing: 0;
+}
+
+p {
+	font-size: 22px;
+}

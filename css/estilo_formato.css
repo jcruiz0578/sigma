@@ -1,0 +1,32 @@
+input.formato, select.formato, textarea.formato {
+	font-weight: bold;
+	border-color: #12CBF5;
+	box-shadow: 15px 15px 15px #999;
+}
+
+.medidas {
+	width: 40px;
+}
+
+.formato_boton {
+	background-repeat: no-repeat;
+	background-position: top;
+	width: 120px;
+	height: 90px;
+	text-align: bottom;
+	padding-top: 40px;
+	font-weight: bold;
+	box-shadow: 15px 15px 15px #999;
+	background: #e5e5e5;
+	border-radius: 15px;
+	border-top-style: solid;
+}
+
+.well {
+	background: #fff;
+	text-align: center;
+}
+
+.modal {
+	text-align: left;
+}
